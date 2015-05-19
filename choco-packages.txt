@@ -1,12 +1,12 @@
 cygwin
-python2
+python
 conemu
 atom
+emacs
 inkscape
 libreoffice
 virtualbox
 git
-pip
 vagrant
 curl
 easy.install
