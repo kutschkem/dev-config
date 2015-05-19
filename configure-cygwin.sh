@@ -6,10 +6,7 @@ function cyg-install {
 
 cyg-install gcc-core
 cyg-install postgresql-client
-cyg-install emacs
-cyg-install emacs-w32
 cyg-install git
 cyg-install git-completion
 cyg-install git-gui
-cyg-install lynx
 cyg-install openssh
