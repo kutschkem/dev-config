@@ -6,7 +6,5 @@ function cyg-install {
 
 cyg-install gcc-core
 cyg-install postgresql-client
-cyg-install git
-cyg-install git-completion
-cyg-install git-gui
 cyg-install openssh
+cyg-install terminfo

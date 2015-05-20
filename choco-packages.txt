@@ -9,10 +9,9 @@ virtualbox
 git
 vagrant
 curl
-easy.install
 clink
-clink.install
 chrome
 maven
 ant
 make
+taskcoach
